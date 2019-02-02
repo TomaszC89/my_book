@@ -1,2 +1,3 @@
 Rodział II - Podtytuł 
 hotfix changes 
+zmiana z v1.3 
